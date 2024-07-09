@@ -10,8 +10,9 @@ const count = ref(0)
 
 <template>
   <h1>{{ msg }}</h1>
+  <img width="30%" src="/src/assets/img/erosion.png" alt="">
 
-  <h2>⚠️ Site under Upgrade ⚠️</h2>
+  <h2>⚠️ Site Under Upgrade ⚠️</h2>
 
   <p>
     Dear users, <br>
