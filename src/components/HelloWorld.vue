@@ -10,7 +10,7 @@ const count = ref(0)
 
 <template>
   <h1>{{ msg }}</h1>
-  <img width="30%" src="/src/assets/img/erosion.png" alt="">
+  <img width="20%" src="/src/assets/img/erosion.png" alt="">
 
   <h2>⚠️ Site Under Upgrade ⚠️</h2>
 
@@ -20,10 +20,10 @@ const count = ref(0)
     My goal is to create a better understanding <br>of <strong>RUSLE analysis and modelling</strong> processes through
     ArcGIS Pro. <br><br>
     👉click <a href="https://github.com/JungleKiosk/rusle/blob/main/src/assets/pdf/Geotecnica_2022.pdf" target="_blank">HERE</a> to see and download a stability analysis paper using SSAP.
-    <br><br>
+    <p>(if you download the pdf you can take advantage of the links in the table of contents)</p>
+    <br>
     <img width="70%" src="/src/assets/img/github_pdf.png" alt="">
-    
-    <br><br>
+    <br>
     Thank you, <br>
     for your understanding.<br>
     For any urgent needs or information,<br>please do not hesitate to contact me at <br>
