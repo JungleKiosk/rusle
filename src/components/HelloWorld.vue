@@ -18,7 +18,8 @@ const count = ref(0)
     Dear users, <br>
     I am currently working on restoring the site to provide an improved experience and updated content. <br>
     My goal is to create a better understanding <br>of <strong>RUSLE analysis and modelling</strong> processes through
-    ArcGIS Pro. <br>
+    ArcGIS Pro. <br><br>
+    In the repo (src/assets/pdf/Geotecnica_2022.pdf) you can find a stability analysis paper with SSAP. <br><br>
     Thank you
     for your understanding and continued support. <br>
     For any urgent needs or information,<br>please do not hesitate to contact me at email eso.fra24@gmail.com or
