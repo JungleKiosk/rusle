@@ -19,19 +19,24 @@ const count = ref(0)
     I am currently working on restoring the site to provide an improved experience and updated content. <br>
     My goal is to create a better understanding <br>of <strong>RUSLE analysis and modelling</strong> processes through
     ArcGIS Pro. <br><br>
-    In the repo (src/assets/pdf/Geotecnica_2022.pdf) you can find a stability analysis paper with SSAP. <br><br>
-    Thank you
-    for your understanding and continued support. <br>
-    For any urgent needs or information,<br>please do not hesitate to contact me at email eso.fra24@gmail.com or
-    at +39
-    3311874661. <br>
+    👉click <a href="https://github.com/JungleKiosk/rusle/blob/main/src/assets/pdf/Geotecnica_2022.pdf" target="_blank">HERE</a> to see and download a stability analysis paper using SSAP.
+    <br><br>
+    <img width="70%" src="/src/assets/img/github_pdf.png" alt="">
+    
+    <br><br>
+    Thank you, <br>
+    for your understanding.<br>
+    For any urgent needs or information,<br>please do not hesitate to contact me at <br>
+    <strong>email eso.fra24@gmail.com</strong> or
+    at <strong>+39
+      3311874661</strong>. <br>
     Thank you for your patience. <br>
     Kind regards, <br>
     Francesco</p>
 
 
   <div class="card">
-    <button type="button" @click="count++">count test {{ count }}</button>
+    <button type="button" @click="count++">JS count test {{ count }}</button>
   </div>
 
 
